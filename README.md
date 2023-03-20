@@ -1,5 +1,5 @@
 # Applicant-scoring
-Scoring script to rank applicant based on their input.
+Create Machine Learning model using Transfer Learning to predict applicant house image with 83% accuracy.
 
 Scripts are deployed in a server. The input of the script is 1 applicant and the output is the same data + their scores.
 
